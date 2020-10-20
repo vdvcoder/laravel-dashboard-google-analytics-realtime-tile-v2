@@ -53,7 +53,7 @@ return [
 ];
 ```
 
-In `app\Console\Kernel.php` you should schedule the `\Ingoldsby\GoogleAnalyticsRealtimeTile\Commands\FetchGoogleAnalyticsRealtimeCommand` to run every minute, pending your Google API quotas and limits.
+In `app\Console\Kernel.php` you should schedule the `\vdvcoder\GoogleAnalyticsRealtimeTile\Commands\FetchGoogleAnalyticsRealtimeCommand` to run every minute, pending your Google API quotas and limits.
 
 ```php
 // in app/console/Kernel.php
@@ -61,7 +61,7 @@ In `app\Console\Kernel.php` you should schedule the `\Ingoldsby\GoogleAnalyticsR
 protected function schedule(Schedule $schedule)
 {
     // ...
-    $schedule->command(\Ingoldsby\GoogleAnalyticsRealtimeTile\Commands\FetchGoogleAnalyticsRealtimeCommand::class)->everyMinute();
+    $schedule->command(\vdvcoder\GoogleAnalyticsRealtimeTile\Commands\FetchGoogleAnalyticsRealtimeCommand::class)->everyMinute();
 }
 ```
 
