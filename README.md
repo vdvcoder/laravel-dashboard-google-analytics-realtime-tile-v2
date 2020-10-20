@@ -1,4 +1,4 @@
-# A tile to display Google Analytics realtime information
+# A tile to display Google Analytics realtime information v2
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/vdvcoder/laravel-dashboard-google-analytics-realtime-tile.svg?style=flat-square)](https://packagist.org/packages/vdvcoder/laravel-dashboard-google-analytics-realtime-tile)
 [![Total Downloads](https://img.shields.io/packagist/dt/vdvcoder/laravel-dashboard-google-analytics-realtime-tile.svg?style=flat-square)](https://packagist.org/packages/vdvcoder/laravel-dashboard-google-analytics-realtime-tile)
