@@ -1,7 +1,7 @@
 # A tile to display Google Analytics realtime information
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/ingoldsby/laravel-dashboard-google-analytics-realtime-tile.svg?style=flat-square)](https://packagist.org/packages/ingoldsby/laravel-dashboard-google-analytics-realtime-tile)
-[![Total Downloads](https://img.shields.io/packagist/dt/ingoldsby/laravel-dashboard-google-analytics-realtime-tile.svg?style=flat-square)](https://packagist.org/packages/ingoldsby/laravel-dashboard-google-analytics-realtime-tile)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/vdvcoder/laravel-dashboard-google-analytics-realtime-tile.svg?style=flat-square)](https://packagist.org/packages/vdvcoder/laravel-dashboard-google-analytics-realtime-tile)
+[![Total Downloads](https://img.shields.io/packagist/dt/vdvcoder/laravel-dashboard-google-analytics-realtime-tile.svg?style=flat-square)](https://packagist.org/packages/vdvcoder/laravel-dashboard-google-analytics-realtime-tile)
 
 This tile can be used on [the Laravel Dashboard](https://docs.spatie.be/laravel-dashboard) to display Google Analytics realtime information.
 
@@ -10,7 +10,7 @@ This tile can be used on [the Laravel Dashboard](https://docs.spatie.be/laravel-
 You can install the package via composer:
 
 ```bash
-composer require ingoldsby/laravel-dashboard-google-analytics-realtime-tile
+composer require vdvcoder/laravel-dashboard-google-analytics-realtime-tile
 ```
 
 ## Google Analytics credentials
@@ -113,6 +113,7 @@ Spatie invest a lot of resources into creating [best in class open source packag
 ## Credits
 
 - [Ingoldsby](https://github.com/ingoldsby)
+- [vdvcoder](https://github.com/vdvcoder)
 - [All Contributors](../../contributors)
 
 ## License
