@@ -3,8 +3,7 @@
     "description": "A Google Analytics realtime tile for Laravel Dashboard v2",
     "keywords": [
         "vdvcoder",
-        "laravel-dashboard-google-analytics-realtime-tilev2",
-        "Credits & Thanks to: https://github.com/ingoldsby"
+        "laravel-dashboard-google-analytics-realtime-tilev2"
     ],
     "homepage": "https://github.com/vdvcoder/laravel-dashboard-google-analytics-realtime-tile-v2",
     "license": "MIT",
