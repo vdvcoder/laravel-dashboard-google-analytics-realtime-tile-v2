@@ -10,7 +10,7 @@ This tile can be used on [the Laravel Dashboard](https://docs.spatie.be/laravel-
 You can install the package via composer:
 
 ```bash
-composer require vdvcoder/laravel-dashboard-google-analytics-realtime-tile
+composer require vdvcoder/laravel-dashboard-google-analytics-realtime-tile-v2
 ```
 
 ## Google Analytics credentials
